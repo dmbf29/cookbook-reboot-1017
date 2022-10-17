@@ -26,7 +26,7 @@ class ScrapeAllrecipesService
 end
 
 # We will call this method in our controller 👇
-ScrapeAllrecipesService.new('strawberry').call
+# ScrapeAllrecipesService.new('strawberry').call
 
     # doc.search('html_tag')
     # p doc.search('h1')
