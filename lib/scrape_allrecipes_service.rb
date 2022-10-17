@@ -14,7 +14,7 @@ class ScrapeAllrecipesService
     info_hash = JSON.parse(doc.search('.js-search-data').text)["results"]
 
     # TODO: return a list of `Recipe` built from scraping the web.
-    doc.search('.standard-card-new').first(2).map do |card|
+    doc.search('.standard-card-new').first(5).map do |card|
       p name = card.search('.standard-card-new__article-title').text.strip
       recipe_hash = info_hash.find do |recipe_hash|
         recipe_hash['title'] == name
