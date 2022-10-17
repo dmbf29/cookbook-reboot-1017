@@ -1,6 +1,11 @@
-Crumpets,Crumpets description
-Beans & Bacon breakfast,Beans description
-Plum pudding,Pudding description
-Apple pie,Apple pie description
-Christmas crumble,Crumble description
-Boeuf Bourguignon,Hearty wine stew
+name,description,rating,done,prep_time
+Crumpets,Crumpets description,,false,
+Beans & Bacon breakfast,Beans description,,false,
+Plum pudding,Pudding description,,false,
+Apple pie,Apple pie description,,false,
+Christmas crumble,Crumble description,,false,
+Boeuf Bourguignon,Hearty wine stew,,false,
+Cheese sauce,"This classic, storecupboard white sauce is loaded with strong cheddar cheese – our easy recipe is ready in 15 minutes. Use to make macaroni or cauliflower cheese",,false,
+Classic cheese scones,Indulge in some cheese scones for afternoon tea or as part of a picnic. They're also great served alongside soups and you can freeze them for later use,4.8,false,
+pizza,dough with sauce,10.0,true,
+Gingerbread haunted house,"Try your hand at this Halloween themed gingerbread house - don't worry about home-made wonkiness, it all adds to the creepy effect",5,false,2 h 10 mins
